@@ -1,0 +1,16 @@
+C:\Users\Pcy\Desktop\Car-Rental-Project-master\Car-Rental-Project-master\CarRentalProject\Business\bin\Debug\netstandard2.0\Business.deps.json
+C:\Users\Pcy\Desktop\Car-Rental-Project-master\Car-Rental-Project-master\CarRentalProject\Business\bin\Debug\netstandard2.0\Business.dll
+C:\Users\Pcy\Desktop\Car-Rental-Project-master\Car-Rental-Project-master\CarRentalProject\Business\bin\Debug\netstandard2.0\Business.pdb
+C:\Users\Pcy\Desktop\Car-Rental-Project-master\Car-Rental-Project-master\CarRentalProject\Business\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Pcy\Desktop\Car-Rental-Project-master\Car-Rental-Project-master\CarRentalProject\Business\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Pcy\Desktop\Car-Rental-Project-master\Car-Rental-Project-master\CarRentalProject\Business\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Pcy\Desktop\Car-Rental-Project-master\Car-Rental-Project-master\CarRentalProject\Business\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Pcy\Desktop\Car-Rental-Project-master\Car-Rental-Project-master\CarRentalProject\Business\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Pcy\Desktop\Car-Rental-Project-master\Car-Rental-Project-master\CarRentalProject\Business\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Pcy\Desktop\Car-Rental-Project-master\Car-Rental-Project-master\CarRentalProject\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
+C:\Users\Pcy\Desktop\Car-Rental-Project-master\Car-Rental-Project-master\CarRentalProject\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+C:\Users\Pcy\Desktop\Car-Rental-Project-master\Car-Rental-Project-master\CarRentalProject\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+C:\Users\Pcy\Desktop\Car-Rental-Project-master\Car-Rental-Project-master\CarRentalProject\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Pcy\Desktop\Car-Rental-Project-master\Car-Rental-Project-master\CarRentalProject\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
+C:\Users\Pcy\Desktop\Car-Rental-Project-master\Car-Rental-Project-master\CarRentalProject\Business\obj\Debug\netstandard2.0\Business.dll
+C:\Users\Pcy\Desktop\Car-Rental-Project-master\Car-Rental-Project-master\CarRentalProject\Business\obj\Debug\netstandard2.0\Business.pdb

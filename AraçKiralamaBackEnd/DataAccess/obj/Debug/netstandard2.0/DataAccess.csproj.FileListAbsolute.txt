@@ -1,0 +1,14 @@
+C:\Users\Pcy\Desktop\Car-Rental-Project-master\Car-Rental-Project-master\CarRentalProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\Pcy\Desktop\Car-Rental-Project-master\Car-Rental-Project-master\CarRentalProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Pcy\Desktop\Car-Rental-Project-master\Car-Rental-Project-master\CarRentalProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Pcy\Desktop\Car-Rental-Project-master\Car-Rental-Project-master\CarRentalProject\DataAccess\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Pcy\Desktop\Car-Rental-Project-master\Car-Rental-Project-master\CarRentalProject\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Pcy\Desktop\Car-Rental-Project-master\Car-Rental-Project-master\CarRentalProject\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Pcy\Desktop\Car-Rental-Project-master\Car-Rental-Project-master\CarRentalProject\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Pcy\Desktop\Car-Rental-Project-master\Car-Rental-Project-master\CarRentalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\Pcy\Desktop\Car-Rental-Project-master\Car-Rental-Project-master\CarRentalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Pcy\Desktop\Car-Rental-Project-master\Car-Rental-Project-master\CarRentalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\Pcy\Desktop\Car-Rental-Project-master\Car-Rental-Project-master\CarRentalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Pcy\Desktop\Car-Rental-Project-master\Car-Rental-Project-master\CarRentalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\Pcy\Desktop\Car-Rental-Project-master\Car-Rental-Project-master\CarRentalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Pcy\Desktop\Car-Rental-Project-master\Car-Rental-Project-master\CarRentalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
